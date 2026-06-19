@@ -1,7 +1,7 @@
 body { /* Estiliza o corpo da página */
     font-family: Arial, Helvetica, sans-serif;
-    background-color: darkblue;
-    color: white;
+    background-color: green;
+    color: yellow;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -10,7 +10,7 @@ margin: 0;
 }
 
 .caixa { /* Estiliza a caixa principal */
-  background-color: aqua;
+  background-color: darkblue;
 padding: 20px;
 border-radius: 10px;
 width: 300px;
